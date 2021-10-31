@@ -1,0 +1,53 @@
+/* @media only screen and (min-device-width: 10px) and (max-device-width: 864px) {
+  * {
+    box-sizing: border-box;
+  }
+  body {
+    background: #191414;
+  }
+}
+#played {
+  width: auto;
+  height: 27px;
+}
+#settings {
+  right: 40px;
+  width: auto;
+  height: 31px;
+}
+p {
+  color: white;
+}
+.linkHousePictures a {
+  display: flex;
+  text-decoration: none;
+}
+.divHousePictures {
+  display: flex;
+  text-decoration: none;
+}
+h1 {
+  display: inline-block;
+  font-size: 208%;
+  color: white;
+  font-family: "Assistant", sans-serif;
+}
+#imgTopBar {
+  display: inline-block;
+}
+#imagesAndPForHome img {
+  width: auto;
+  height: 50px;
+}
+.HousePictures {
+  /* background-color: rgba(255, 255, 255, 0.041); */
+/* border: solid #191414;
+  border-radius: 9px;
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+}
+.linkHousePictures {
+  border-radius: 40px;
+  background-color: rgba(255, 255, 255, 0.041);
+} */
